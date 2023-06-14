@@ -8,7 +8,7 @@
 
 ## **1. Splash Page**
 
-<img  src="Example.PNG"  width="200" height="400" title="table_example" />
+<img  src="Example.PNG"  width="500" height="400" title="table_example" />
 
 <br><br>
 

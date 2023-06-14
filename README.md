@@ -6,7 +6,7 @@
 * I used the following libraries: requests , BeautifulSoup   , mysql.connector ,os, json
 
 
-## **1. Splash Page**
+## **1. Table example**
 
 <img  src="Example.PNG"  width="500" height="400" title="table_example" />
 
